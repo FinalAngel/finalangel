@@ -9,6 +9,5 @@
 
 <p align="center">
   <a href="https://angelo.dini.dev/"><img src="https://github-readme-stats.vercel.app/api?username=finalangel&show_icons=true&hide=stars" alt="My GitHub Stats" /></a>
-  &nbsp;
   <a href="https://angelo.dini.dev/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=finalangel&layout=compact" alt="My Languages" /></a>
 </p>
